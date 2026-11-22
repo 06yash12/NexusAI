@@ -92,6 +92,17 @@ pytest tests -v
 
 25 tests covering SQL guard safety, ingestion validation, dashboard math, report generation, API lifecycle, intent routing, and chunking.
 
+## Screenshots
+
+**AI Chat & Query Interface**
+![AI Chatbot](frontend/Dashboards/AI%20Chatbot.png)
+
+**BI Dashboard**
+![BI Dashboard](frontend/Dashboards/BI%20Dashboard.png)
+
+**Smart Suggestions**
+![Suggestions](frontend/Dashboards/Suggestions.png)
+
 ## Documentation
 
 For ML pipeline details, RAG architecture, model configuration, and future enhancements, see **[PROJECT_DOCS.md](PROJECT_DOCS.md)**.
