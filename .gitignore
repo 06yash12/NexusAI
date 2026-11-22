@@ -1,0 +1,36 @@
+# Python
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+
+# Generated data & storage
+backend/data/
+backend/storage/
+*.duckdb
+*.sqlite
+*.sqlite3
+*.db
+chroma/
+
+# IDE
+.vscode/
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

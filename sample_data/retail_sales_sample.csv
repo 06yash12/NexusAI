@@ -1,0 +1,11 @@
+order_id,order_date,product,category,quantity,unit_price,discount,region,customer
+1001,2026-01-03,Wireless Mouse,Accessories,3,799,0,South,Customer A
+1002,2026-01-04,Keyboard,Accessories,2,1499,100,West,Customer B
+1003,2026-01-05,Monitor,Electronics,1,12999,500,South,Customer C
+1004,2026-01-06,USB-C Hub,Accessories,4,2199,0,North,Customer D
+1005,2026-01-07,Monitor,Electronics,2,12999,1000,East,Customer E
+1006,2026-01-08,Webcam,Electronics,2,3499,0,South,Customer F
+1007,2026-01-09,Keyboard,Accessories,5,1499,250,West,Customer G
+1008,2026-01-10,Wireless Mouse,Accessories,6,799,0,North,Customer H
+1009,2026-01-11,Headphones,Electronics,3,4999,300,East,Customer I
+1010,2026-01-12,USB-C Hub,Accessories,2,2199,100,South,Customer J
